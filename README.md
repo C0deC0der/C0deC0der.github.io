@@ -1,2 +1,2 @@
 # Namastey Nibbles Menu
-![Menu](https://github.com/C0deC0der/Menu/blob/main/Nibbles.jpg)
+![Menu](https://raw.githubusercontent.com/C0deC0der/C0deC0der.github.io/main/Nibbles.png)
